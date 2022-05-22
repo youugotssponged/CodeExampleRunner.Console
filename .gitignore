@@ -17,27 +17,27 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+CodeExampleRunner.Console/[Dd]ebug/
+CodeExampleRunner.Console/[Dd]ebugPublic/
+CodeExampleRunner.Console/[Rr]elease/
+CodeExampleRunner.Console/[Rr]eleases/
+CodeExampleRunner.Console/x64/
+CodeExampleRunner.Console/x86/
+CodeExampleRunner.Console/[Aa][Rr][Mm]/
+CodeExampleRunner.Console/[Aa][Rr][Mm]64/
+CodeExampleRunner.Console/bld/
+CodeExampleRunner.Console/[Bb]in/
+CodeExampleRunner.Console/[Oo]bj/
+[CodeExampleRunner.Console/Ll]og/
+CodeExampleRunner.Console/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-.vs/
+CodeExampleRunner.Console/.vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
-#wwwroot/
+CodeExampleRunner.Console/#wwwroot/
 
 # Visual Studio 2017 auto generated files
-Generated\ Files/
+CodeExampleRunner.Console/Generated\ Files/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -45,8 +45,8 @@ Generated\ Files/
 
 # NUnit
 *.VisualState.xml
-TestResult.xml
-nunit-*.xml
+CodeExampleRunner.Console/TestResult.xml
+CodeExampleRunner.Console/nunit-*.xml
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
