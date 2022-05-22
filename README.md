@@ -8,6 +8,8 @@ This runner allows you to additively add code to be ran via the console
 
 ![image](https://user-images.githubusercontent.com/11492379/169673743-8e8c45f1-9f96-4d4d-b3db-052c2ac5a86b.png)
 
+# Download
+Grab the Nuget here => https://www.nuget.org/packages/CodeExampleRunner.Console
 
 # How to Use
 
